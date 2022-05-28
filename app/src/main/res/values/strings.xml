@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SE-328 Project</string>
+    <string name="name">Raghad Al sagga</string>
+    <string name="student_id">201270</string>
+    <string name="student_id_place_holder">Student ID:</string>
+    <string name="name_place_holder">Name:</string>
+    <string name="btn1">Insert Record</string>
+    <string name="btn2">Update Record</string>
+    <string name="btn3">Delete Record</string>
+    <string name="btn4">Get All Students</string>
+    <string name="btn5">Weather Report</string>
+    <string name="btn6">Change City</string>
+    <string name="btn7">SQL List</string>
+    <string name="btn8">Privacy Policy</string>
+    <string name="api_key">2c50325f427689340a03ff16215d8fc4</string>
+    <string name="client_url">http://api.openweathermap.org/data/</string>
+</resources>

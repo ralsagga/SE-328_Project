@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:padding="8dp"
+    android:background="@color/grey"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tv_student_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Student ID: " />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: " />
+
+    <TextView
+        android:id="@+id/tv_sur_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sur name: " />
+
+    <TextView
+        android:id="@+id/tv_father_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Father name: " />
+
+    <TextView
+        android:id="@+id/tv_national_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="National ID: " />
+
+    <TextView
+        android:id="@+id/tv_dob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date of birth: " />
+
+    <TextView
+        android:id="@+id/tv_gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gender: " />
+
+</LinearLayout>
